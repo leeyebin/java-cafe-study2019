@@ -1,4 +1,4 @@
-package main.oop.object.abstract_exam.classes;
+package main.oop.abstract_exam.classes;
 
 public class Duck extends Bird {
 	@Override

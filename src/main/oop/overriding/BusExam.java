@@ -1,6 +1,6 @@
-package main.oop.object.overriding;
+package main.oop.overriding;
 
-import main.oop.object.overriding.classes.Bus;
+import main.oop.overriding.classes.Bus;
 
 public class BusExam {
 	public static void main(String args[]) {

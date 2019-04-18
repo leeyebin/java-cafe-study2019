@@ -1,6 +1,6 @@
-package main.oop.object.abstract_exam;
+package main.oop.abstract_exam;
 
-import main.oop.object.abstract_exam.classes.Duck;
+import main.oop.abstract_exam.classes.Duck;
 
 public class DuckExam {
 	public static void main(String[] args) {

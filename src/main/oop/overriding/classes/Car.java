@@ -1,4 +1,4 @@
-package main.oop.object.overriding.classes;
+package main.oop.overriding.classes;
 
 //run 메소드를 가지고 있는  Car클래스 
 public class Car {

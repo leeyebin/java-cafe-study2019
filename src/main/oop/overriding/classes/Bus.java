@@ -1,4 +1,4 @@
-package main.oop.object.overriding.classes;
+package main.oop.overriding.classes;
 
 //Car 를 상속받는 Bus 클래스 
 public class Bus extends Car{
