@@ -5,6 +5,6 @@ import main.oop.overriding.classes.Bus;
 public class BusExam {
 	public static void main(String args[]) {
 		Bus bus = new Bus();
-		bus.run(); // CarÀÇ run¸Ş¼Òµå°¡ ½ÇÇàµÈ´Ù.
+		bus.run(); // Carì˜ runë©”ì†Œë“œê°€ ì‹¤í–‰ëœë‹¤.
 	}
 }

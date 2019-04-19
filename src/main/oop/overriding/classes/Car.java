@@ -1,8 +1,8 @@
 package main.oop.overriding.classes;
 
-//run ¸Ş¼Òµå¸¦ °¡Áö°í ÀÖ´Â  CarÅ¬·¡½º 
+//run ë©”ì†Œë“œë¥¼ ê°€ì§€ê³  ìˆëŠ”  Carí´ë˜ìŠ¤ 
 public class Car {
 	public void run() {
-		System.out.println("CarÀÇ run¸Ş¼Òµå");
+		System.out.println("Carì˜ runë©”ì†Œë“œ");
 	}
 }
