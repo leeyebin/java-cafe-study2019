@@ -6,10 +6,10 @@ public class Car {
 
 	public Car(String n) {
 		name = n;
-		System.out.println("ÀÌ¸§ÀÌ " + name + "ÀÎ ÀÚµ¿Â÷ Å¬·¡½ºÀÇ »ı¼ºÀÚ ÀÔ´Ï´Ù.");
+		System.out.println("ì´ë¦„ì´ " + name + "ì¸ ìë™ì°¨ í´ë˜ìŠ¤ì˜ ìƒì„±ì ì…ë‹ˆë‹¤.");
 	}
 	
 	public void start() {
-		System.out.println(name + "ÀÇ ½Ãµ¿ÀÌ °É·È½À´Ï´Ù.");
+		System.out.println(name + "ì˜ ì‹œë™ì´ ê±¸ë ¸ìŠµë‹ˆë‹¤.");
 	}
 }

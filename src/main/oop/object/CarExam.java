@@ -3,14 +3,14 @@ package main.oop.object;
 public class CarExam {
 	public static void main(String args[]) {
 
-		Car c1 = new Car("¼Ò¹æÂ÷"); //»ı¼ºÀÚ¿¡ ÀÎÀÚ Àü´Ş
-		Car c2 = new Car("±¸±ŞÂ÷");
+		Car c1 = new Car("ì†Œë°©ì°¨"); //ìƒì„±ìì— ì¸ì ì „ë‹¬
+		Car c2 = new Car("êµ¬ê¸‰ì°¨");
 		
 		
-		//Car c3 = new Car(); // ÄÄÆÄÀÏ ¿À·ù°¡ ¹ß»ıÇÕ´Ï´Ù.
+		//Car c3 = new Car(); // ì»´íŒŒì¼ ì˜¤ë¥˜ê°€ ë°œìƒí•©ë‹ˆë‹¤.
 
 		System.out.println(c1.name);
-		c1.start(); //start¸Ş¼Òµå¸¦ ½ÇÇà
+		c1.start(); //startë©”ì†Œë“œë¥¼ ì‹¤í–‰
 		
 		System.out.println(c2.name);
 		c2.start();

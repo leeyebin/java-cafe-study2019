@@ -1,18 +1,18 @@
 package main.oop.interfaces;
 
-import main.oop.interfaces.classes.³¯¼öÀÖ´Â;
-import main.oop.interfaces.classes.¹ÚÁã;
-import main.oop.interfaces.classes.Âü»õ;
+import main.oop.interfaces.classes.ë‚ ìˆ˜ìˆëŠ”;
+import main.oop.interfaces.classes.ë°•ì¥;
+import main.oop.interfaces.classes.ì°¸ìƒˆ;
 
 public class Example2 {
 	/**
-	 * ÀÎÅÍÆäÀÌ½º ±¸ÇöÃ¼´Â ÇØ´ç ÀÎÅÍÆäÀÌ½º·Î º¯È¯ °¡´É
+	 * ì¸í„°í˜ì´ìŠ¤ êµ¬í˜„ì²´ëŠ” í•´ë‹¹ ì¸í„°í˜ì´ìŠ¤ë¡œ ë³€í™˜ ê°€ëŠ¥
 	 */
 	public static void main(String[] args) {
-		³¯¼öÀÖ´Â[] animals = new ³¯¼öÀÖ´Â[2];
+		ë‚ ìˆ˜ìˆëŠ”[] animals = new ë‚ ìˆ˜ìˆëŠ”[2];
 
-		animals[0] = new ¹ÚÁã();
-		animals[1] = new Âü»õ();
+		animals[0] = new ë°•ì¥();
+		animals[1] = new ì°¸ìƒˆ();
 
 		for (int i = 0; i < animals.length; i++) {
 			animals[i].fly();

@@ -1,9 +1,9 @@
 package main.oop.interfaces.classes;
 
 
-public class ÀÎ¾î implements »ç¶÷, ¹°°í±â{
+public class ì¸ì–´ implements ì‚¬ëŒ, ë¬¼ê³ ê¸°{
     @Override
-    public void Çì¾öÄ¡±â() {
-        »ç¶÷.super.Çì¾öÄ¡±â();
+    public void í—¤ì—„ì¹˜ê¸°() {
+        ì‚¬ëŒ.super.í—¤ì—„ì¹˜ê¸°();
     }
 }

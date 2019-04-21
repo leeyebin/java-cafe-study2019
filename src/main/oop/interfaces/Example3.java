@@ -1,10 +1,10 @@
 package main.oop.interfaces;
 
-import main.oop.interfaces.classes.ÀÎ¾î;
+import main.oop.interfaces.classes.ì¸ì–´;
 
 public class Example3 {
 	public static void main(String[] args) {
-		ÀÎ¾î mermaid = new ÀÎ¾î();
-		mermaid.Çì¾öÄ¡±â();
+		ì¸ì–´ mermaid = new ì¸ì–´();
+		mermaid.í—¤ì—„ì¹˜ê¸°();
 	}
 }

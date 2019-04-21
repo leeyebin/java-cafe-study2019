@@ -1,9 +1,9 @@
 package main.oop.interfaces.classes;
 
 
-public interface »ç¶÷ {
-    default void Çì¾öÄ¡±â() {
+public interface ì‚¬ëžŒ {
+    default void í—¤ì—„ì¹˜ê¸°() {
 
-        System.out.println("ÆÈ ´Ù¸®·Î Çì¾öÄ£´Ù.");
+        System.out.println("íŒ” ë‹¤ë¦¬ë¡œ í—¤ì—„ì¹œë‹¤.");
     }
 }

@@ -1,12 +1,12 @@
 package main.oop.interfaces.classes;
 
-public class ¹ÚÁã extends Æ÷À¯·ù implements ³¯¼öÀÖ´Â {
-    public ¹ÚÁã() {
-        this.className = "¹ÚÁã";
+public class ë°•ì¥ extends í¬ìœ ë¥˜ implements ë‚ ìˆ˜ìˆëŠ” {
+    public ë°•ì¥() {
+        this.className = "ë°•ì¥";
     }
 
     @Override
     public void fly() {
-        System.out.println(className + "°¡ ³¯°í ÀÖÀ½..");
+        System.out.println(className + "ê°€ ë‚ ê³  ìˆìŒ..");
     }
 }

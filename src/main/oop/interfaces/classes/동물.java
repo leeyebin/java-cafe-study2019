@@ -1,10 +1,10 @@
 package main.oop.interfaces.classes;
 
-public class µ¿¹° {
+public class ë™ë¬¼ {
     String className;
 
-    public µ¿¹°() {
-        this.className = "µ¿¹°";
+    public ë™ë¬¼() {
+        this.className = "ë™ë¬¼";
     }
 
     public void showMe() {

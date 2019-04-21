@@ -1,6 +1,6 @@
 package main.oop.abstract_class_exam.classes;
 
-//Ãß»óÅ¬·¡½º ActionÀ» »ó¼Ó¹ŞÀº Å¬·¡½º MyAction
+//ì¶”ìƒí´ë˜ìŠ¤ Actionì„ ìƒì†ë°›ì€ í´ë˜ìŠ¤ MyAction
 
 public class MyAction extends Action {
 	public void exec() {

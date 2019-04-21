@@ -1,8 +1,8 @@
 package main.oop.interfaces.classes;
 
 
-public class Á¶·ù extends µ¿¹°{
-    public Á¶·ù() {
-        this.className = "Á¶·ù";
+public class ì¡°ë¥˜ extends ë™ë¬¼{
+    public ì¡°ë¥˜() {
+        this.className = "ì¡°ë¥˜";
     }
 }

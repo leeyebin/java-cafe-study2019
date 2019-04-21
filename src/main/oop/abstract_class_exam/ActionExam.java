@@ -3,7 +3,7 @@ package main.oop.abstract_class_exam;
 import main.oop.abstract_class_exam.classes.Action;
 import main.oop.abstract_class_exam.classes.MyAction;
 
-//MyActionÀ» »ç¿ëÇÏ´Â Å¬·¡½º ActionExam 
+//MyActionì„ ì‚¬ìš©í•˜ëŠ” í´ë˜ìŠ¤ ActionExam 
 public class ActionExam {
 	public static void main(String args[]) {
 		Action action = new MyAction();

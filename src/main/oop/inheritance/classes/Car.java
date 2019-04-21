@@ -2,6 +2,6 @@ package main.oop.inheritance.classes;
 
 public class Car {
 	public void run() {
-		System.out.println("´Þ¸®´Ù.");
+		System.out.println("ë‹¬ë¦¬ë‹¤.");
 	}
 }

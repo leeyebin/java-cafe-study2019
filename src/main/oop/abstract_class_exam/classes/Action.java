@@ -1,6 +1,6 @@
 package main.oop.abstract_class_exam.classes;
 
-//Ãß»óÅ¬·¡½º Action 
+//ì¶”ìƒí´ë˜ìŠ¤ Action 
 public abstract class Action {
 	public abstract void exec();
 }

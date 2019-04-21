@@ -1,18 +1,18 @@
 package main.oop.interfaces;
 
-import main.oop.interfaces.classes.³¯¼öÀÖ´Â;
-import main.oop.interfaces.classes.¹ÚÁã;
-import main.oop.interfaces.classes.Âü»õ;
+import main.oop.interfaces.classes.ë‚ ìˆ˜ìˆëŠ”;
+import main.oop.interfaces.classes.ë°•ì¥;
+import main.oop.interfaces.classes.ì°¸ìƒˆ;
 
 public class Example1 {
 	/**
-	 * ÀÎÅÍÆäÀÌ½º ±¸Çö
+	 * ì¸í„°í˜ì´ìŠ¤ êµ¬í˜„
 	 */
 	public static void main(String[] args) {
-		³¯¼öÀÖ´Â canFly1 = new ¹ÚÁã();
+		ë‚ ìˆ˜ìˆëŠ” canFly1 = new ë°•ì¥();
 		canFly1.fly();
 
-		³¯¼öÀÖ´Â canFly2 = new Âü»õ();
+		ë‚ ìˆ˜ìˆëŠ” canFly2 = new ì°¸ìƒˆ();
 		canFly2.fly();
 	}
 }

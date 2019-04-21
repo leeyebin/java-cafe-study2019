@@ -1,6 +1,6 @@
 package main.oop.interfaces.classes;
 
 
-public interface ³¯¼öÀÖ´Â {
+public interface ë‚ ìˆ˜ìˆëŠ” {
     void fly();
 }
