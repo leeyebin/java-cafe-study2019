@@ -1,4 +1,4 @@
-package main.oop.abstract_class_exam.classes;
+package main.oop.abstractClassExam.classes;
 
 //추상클래스 Action을 상속받은 클래스 MyAction
 
