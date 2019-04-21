@@ -1,7 +1,7 @@
-package main.oop.callByExam;
+package main.oop.callby_exam;
 
-import main.oop.callByExam.claees.CallByReference;
-import main.oop.callByExam.claees.CallByClass;
+import main.oop.callby_exam.claees.CallByClass;
+import main.oop.callby_exam.claees.CallByReference;
 
 public class CallByExam {
 

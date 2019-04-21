@@ -1,6 +1,6 @@
-package main.oop.abstractClassExam;
+package main.oop.abstract_class_exam;
 
-import main.oop.abstractClassExam.classes.Action;
+import main.oop.abstract_class_exam.classes.Action;
 
 //MyAction을 사용하지 않고 Action을 상속받는 익명 클래스
 public class ActionExam2 {

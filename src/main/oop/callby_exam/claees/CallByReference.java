@@ -1,4 +1,4 @@
-package main.oop.callByExam.claees;
+package main.oop.callby_exam.claees;
 
 public class CallByReference {
 	public int value;

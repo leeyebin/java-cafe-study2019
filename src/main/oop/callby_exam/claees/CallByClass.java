@@ -1,4 +1,4 @@
-package main.oop.callByExam.claees;
+package main.oop.callby_exam.claees;
 
 public class CallByClass {
 	public static void swapValue(int x, int y) {

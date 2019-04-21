@@ -1,4 +1,4 @@
-package main.oop.abstractClassExam.classes;
+package main.oop.abstract_class_exam.classes;
 
 //추상클래스 Action 
 public abstract class Action {
