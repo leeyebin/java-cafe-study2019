@@ -1,4 +1,4 @@
-package main.oop.interfaces.classes;
+package main.oop.inheritance.classes;
 
 public class 고래 extends 포유류 {
     public 고래() {

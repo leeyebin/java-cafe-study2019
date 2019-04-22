@@ -1,4 +1,4 @@
-package main.oop.interfaces.classes;
+package main.oop.inheritance.classes;
 
 public class 동물 {
     String className;
