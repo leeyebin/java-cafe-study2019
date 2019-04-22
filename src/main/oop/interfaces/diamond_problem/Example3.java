@@ -1,6 +1,6 @@
 package main.oop.interfaces.diamond_problem;
 
-import main.oop.interfaces.classes.인어;
+import main.oop.interfaces.diamond_problem.classes.인어;
 
 public class Example3 {
 	public static void main(String[] args) {

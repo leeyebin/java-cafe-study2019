@@ -1,7 +1,8 @@
 package main.oop.interfaces.interfaces_exam;
 
-import main.oop.interfaces.classes.날수있는;
-import main.oop.interfaces.classes.박쥐;
+
+import main.oop.interfaces.interfaces_exam.classes.날수있는;
+import main.oop.interfaces.interfaces_exam.classes.박쥐;
 import main.oop.interfaces.interfaces_exam.classes.펭귄;
 import main.oop.interfaces.interfaces_exam.classes.헤엄칠수있는;
 
