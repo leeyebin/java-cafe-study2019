@@ -3,7 +3,7 @@ package main.oop.encapsulation.encapsulation_exam;
 import main.oop.encapsulation.encapsulation_exam.classes.KumhoTire;
 import main.oop.encapsulation.encapsulation_exam.classes.Tire;
 
-public class Example1 {
+public class TireExample {
     public static void main(String[] args) {
         Tire tire = new Tire();
         //tire.setName("타이어"); //외부에서 타이어클래스를 생성했기 때문에 setName 메소드 사용 불가
