@@ -8,7 +8,7 @@ public class Car1 {
 	// 객체 생성시 필드를 초기화하거나 처리하고싶은 로직이 있다면, 선언해서 사용할 수 있다.
 	public Car1() {
 		name = "Car";
-		System.out.println("Car 클래스의 생성자 입니다.");
+		System.out.println(name + "클래스의 생성자 입니다.");
 	}
 
 	// 메소드

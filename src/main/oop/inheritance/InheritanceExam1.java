@@ -8,8 +8,11 @@ import main.oop.inheritance.classes.참새;
 import main.oop.inheritance.classes.펭귄;
 import main.oop.inheritance.classes.포유류;
 
-public class InheritanceExam {
+public class InheritanceExam1 {
 	public static void main(String args[]) {
+		
+	    //상위클래스에 구현한 필드/메소드를 하위클래스에서 사용.
+	    
 		동물 animal = new 동물();
 		포유류 mammalia = new 포유류();
 		조류 bird = new 조류();

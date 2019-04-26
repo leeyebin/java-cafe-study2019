@@ -2,7 +2,7 @@ package main.oop.getter_setter.classes;
 
 public class Car {
 	//필드
-	private int speed;
+	private int speed; //private 이기 때문에 외부에서 직접 접근 불가
 	private boolean stop;
 	
 	public int getSpeed() {

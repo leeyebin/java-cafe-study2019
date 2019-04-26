@@ -8,7 +8,7 @@ public class CarExample {
 		Car myCar = new Car();
 
 		// 잘못된 속도 변경
-		myCar.setSpeed(-50);
+		myCar.setSpeed(-50);//setSpeed 접근제한자가 public이므로 외부에서 호출 가능.
 		System.out.println("현재 속도: " + myCar.getSpeed());
 
 		// 올바른 속도 변경

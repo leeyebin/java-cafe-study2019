@@ -7,6 +7,5 @@ public class ActionExam2 {
 	public static void main(String args[]) {
 		Action action = () -> System.out.println("exec");
 		action.exec();
-		
 	}
 }
