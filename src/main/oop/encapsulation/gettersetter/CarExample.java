@@ -1,6 +1,6 @@
-package main.oop.getter_setter;
+package main.oop.encapsulation.gettersetter;
 
-import main.oop.getter_setter.classes.Car;
+import main.oop.encapsulation.gettersetter.classes.Car;
 
 public class CarExample {
 
